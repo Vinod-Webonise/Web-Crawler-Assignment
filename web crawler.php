@@ -1,7 +1,6 @@
 
 <?php
 
-
 getdeta("https://www.google.com",5);
 
 function getdeta($url,$depth) {
